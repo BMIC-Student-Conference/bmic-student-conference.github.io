@@ -2,7 +2,7 @@
 
 [home](https://bmic-student-conference.github.io/)
 
-## A Student Conference For Medical Image Analysis
+## A Student Conference For Biomedical Image Computing
 
 We are a group of academic research institutes working on analysis of medical images.
 We meet every Thursday afternoon (CET), where a speaker presents one of their recently published articles.
