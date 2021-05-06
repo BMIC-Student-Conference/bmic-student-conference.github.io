@@ -15,7 +15,7 @@ The list of previous and upcoming talks is given below. Every Thursday's talk is
 
 | Date        | Time (CET)  | Speaker             | Talk                                                             | Paper       | Slides      | Video      |
 | ----------- | ------------|-------------------- | ---------------------------------------------------------------- | ----------- |-----------  |----------- |
-| 12.08.2021  |  | [Archana Venkataraman](https://engineering.jhu.edu/ece/faculty/archana-venkataraman/) | TBD | link | link | link |
+| 12.08.2021  | 16:00 | [Archana Venkataraman](https://engineering.jhu.edu/ece/faculty/archana-venkataraman/) | TBD | link | link | link |
 | 29.07.2021  | 14:30 | [Daniel Moyer](https://dcmoyer.github.io/) | Scanner Invariant MRI Representations | [link](https://arxiv.org/abs/1904.05375) | link | link |
 | 15.07.2021  | 14:30 | [Julian Krebs](https://scholar.google.com/citations?hl=en&user=VoUvdPQAAAAJ&view_op=list_works&sortby=pubdate)   | Learning a Generative Motion Model From Image Sequences | [link](https://ieeexplore.ieee.org/document/9344838) | link | link |
 | 01.07.2021  | 14:30 | [Angelica I. Aviles-Rivero](https://angelicaiaviles.wordpress.com/)   | Deep Semi-Supervised Medical Image Classification | link | link | link |
