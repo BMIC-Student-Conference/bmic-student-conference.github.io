@@ -1,6 +1,6 @@
 <br/>
 
-[home](https://bmic-student-conference.github.io/)
+[Home](https://bmic-student-conference.github.io/), [Twitter](https://twitter.com/bmicstudentconf)
 
 ## A Student Conference For Biomedical Image Computing
 
