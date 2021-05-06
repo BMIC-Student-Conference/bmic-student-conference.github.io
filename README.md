@@ -18,7 +18,7 @@ The list of previous and upcoming talks is given below. Every Thursday's talk is
 | 12.08.2021  |  | [Archana Venkataraman](https://engineering.jhu.edu/ece/faculty/archana-venkataraman/) | TBD | link | link | link |
 | 29.07.2021  | 14:30 | [Daniel Moyer](https://dcmoyer.github.io/) | Scanner Invariant MRI Representations | [link](https://arxiv.org/abs/1904.05375) | link | link |
 | 15.07.2021  | 14:30 | [Julian Krebs](https://scholar.google.com/citations?hl=en&user=VoUvdPQAAAAJ&view_op=list_works&sortby=pubdate)   | Learning a Generative Motion Model From Image Sequences | [link](https://ieeexplore.ieee.org/document/9344838) | link | link |
-| 01.07.2021  | 14:30 | [Angelica I. Aviles-Rivero](https://angelicaiaviles.wordpress.com/)   | Functionals, Neural Nets and Beyond: The Power of Hybrid Models with Minimal Supervision for Medical Image Classification | link | link | link |
+| 01.07.2021  | 14:30 | [Angelica I. Aviles-Rivero](https://angelicaiaviles.wordpress.com/)   | Deep Semi-Supervised Medical Image Classification | link | link | link |
 | 24.06.2021  | | [Herve Lombaert](https://profs.etsmtl.ca/hlombaert/)   | TBD | link | link | link |
 | 17.06.2021  | | [Valery Vishnevski](https://scholar.google.ch/citations?hl=en&user=1fGojj4AAAAJ&view_op=list_works&sortby=pubdate)   | TBD | link | link | link |
 | 10.06.2021  | | [Marco Lorenzi](https://marcolorenzi.github.io/)   | TBD | link | link | link |
