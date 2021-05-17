@@ -8,7 +8,7 @@ We are a group of academic research institutes working on analysis of medical im
 We meet every Thursday afternoon (CET), where a speaker presents one of their recently published articles.
 The talk is for roughly 30 minutes, followed by a discussion for 30 to 45 minutes.
 
-[comment]: <> (We hope that this virtual conference will provide a platform for researchers to make their work known in the community. This has become difficult as there were no physical conferences in 2020 due to the pandemic, and this will likely remain to be the case in the near future. Also, it is common in our field to publish directly in journals. We think such a conference can substantially improve the visibility of journal articles. Finally, we hope that such continuous exchange of ideas will foster networking, and allow us to see / reconnect with people while still working from our home offices.)
+[comment]: <> (We hope that this virtual conference will provide a platform for researchers to make their work known in the community. This has become difficult as there were no physical conferences in 2020 due to the pandemic, and this will likely remain to be the case in the near future. Also, it is common in our field to publish directly in journals. We think such a conference can substantially improve the visibility of journal articles. Finally, we hope that such continuous exchange of ideas will foster networking, and allow us to see / reconnect with people while still working from our home offices. | 03.06.2021  | | Jan Unkelbach https://scholar.google.com/citations?hl=en&user=X659tV8AAAAJ&view_op=list_works | TBD | link | link | link |)
 
 The list of previous and upcoming talks is given below. Every Thursday's talk is added by Monday, while the links to the slides and the video are updated shortly after the talk. [This](https://ethz.zoom.us/j/92533050789?pwd=QldJSjVsOUhWUmxidGRLRE1VLzFYZz09) is the meeting link.
 
@@ -23,7 +23,6 @@ The list of previous and upcoming talks is given below. Every Thursday's talk is
 | 17.06.2021  | | [Valery Vishnevski](https://scholar.google.ch/citations?hl=en&user=1fGojj4AAAAJ&view_op=list_works&sortby=pubdate)   | TBD | link | link | link |
 | 10.06.2021  | | [Marco Lorenzi](https://marcolorenzi.github.io/)   | TBD | link | link | link |
 | 03.06.2021  | | [Roman Ludwig](https://pubmed.ncbi.nlm.nih.gov/?term=Ludwig+R&cauthor_id=33947429) | TBD | link | link | link |
-[comment]: <> (| 03.06.2021  | | Jan Unkelbach https://scholar.google.com/citations?hl=en&user=X659tV8AAAAJ&view_op=list_works | TBD | link | link | link |)
 | 27.05.2021  | | [Miguel Monteiro](https://scholar.google.com/citations?user=LyabfXcAAAAJ&hl=en)    | Uncertainty Modeling in Image Segmentation | [link](https://arxiv.org/pdf/2006.06015.pdf) | link | link |
 | 20.05.2021  | | [Adrian Dalca](http://www.mit.edu/~adalca/index.html)    | TBD | link | link | link |
 | 06.05.2021  | 14:30 | [Stanley Durrleman](https://who.rocq.inria.fr/Stanley.Durrleman/#)   | Spatiotemporal Statistical Shape Analysis | [link](https://hal.inria.fr/hal-02091549v5/document), [link](https://jmlr.csail.mit.edu/papers/volume18/17-197/17-197.pdf) | link | [link](https://youtu.be/8TvnMPfXuJE) |
