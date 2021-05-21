@@ -24,9 +24,7 @@ The list of previous and upcoming talks is given below. Every Thursday's talk is
 | 10.06.2021  | | [Marco Lorenzi](https://marcolorenzi.github.io/)   | TBD | link | link | link |
 | 03.06.2021  | 14:30 | [Roman Ludwig](https://pubmed.ncbi.nlm.nih.gov/?term=Ludwig+R&cauthor_id=33947429) | A Hidden Markov Model for Lymphatic Tumor Progression | link | link | link |
 | 27.05.2021  | 14:30 | [Miguel Monteiro](https://scholar.google.com/citations?user=LyabfXcAAAAJ&hl=en)    | Uncertainty Modeling in Image Segmentation | [link](https://arxiv.org/pdf/2006.06015.pdf) | link | link |
-
 | 20.05.2021  | 14:30 | [Adrian Dalca](http://www.mit.edu/~adalca/index.html) | Amortized Hyperparameter Learning | [link](https://arxiv.org/abs/2101.01035) | link | [link](https://youtu.be/UHNusgMwSdA) |
-
 | 06.05.2021  | 14:30 | [Stanley Durrleman](https://who.rocq.inria.fr/Stanley.Durrleman/#)   | Spatiotemporal Statistical Shape Analysis | [link](https://hal.inria.fr/hal-02091549v5/document), [link](https://jmlr.csail.mit.edu/papers/volume18/17-197/17-197.pdf) | link | [link](https://youtu.be/8TvnMPfXuJE) |
 | 29.04.2021  | 14:30 | [Marc Niethammer](https://biag.cs.unc.edu/author/marc-niethammer/)    | A Shooting Formulation of Deep Learning | [link](https://papers.nips.cc/paper/2020/hash/89562dccfeb1d0394b9ae7e09544dc70-Abstract.html) | link | link |
 | 22.04.2021  | 14:30 | [Francesco La Rosa](https://scholar.google.com/citations?user=OEE8Ze0AAAAJ&hl=en&oi=ao)    | Image Synthesis for Improved Tissue and Lesion Segmentation | [link](https://www.sciencedirect.com/science/article/pii/S0010482521000913) | [link](https://drive.google.com/file/d/1duzLYTn-8c2rcgq6OlLcf9E9G1IdqlVL/view?usp=sharing) | [link](https://youtu.be/zZfu98WRGQU) |
