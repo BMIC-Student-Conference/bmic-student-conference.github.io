@@ -21,7 +21,7 @@ The list of previous and upcoming talks is given below. Every Thursday's talk is
 | 01.07.2021  | 14:30 | [Angelica I. Aviles-Rivero](https://angelicaiaviles.wordpress.com/)   | Deep Semi-Supervised Medical Image Classification | link | link | link |
 | 24.06.2021  | | [Herve Lombaert](https://profs.etsmtl.ca/hlombaert/)   | TBD | link | link | link |
 | 17.06.2021  | | [Valery Vishnevski](https://scholar.google.ch/citations?hl=en&user=1fGojj4AAAAJ&view_op=list_works&sortby=pubdate)   | TBD | link | link | link |
-| 10.06.2021  | | [Marco Lorenzi](https://marcolorenzi.github.io/)   | TBD | link | link | link |
+| 10.06.2021  | 14:30 | [Marco Lorenzi](https://marcolorenzi.github.io/) | Federated Learning in Medical Imaging: from Theory to Practice | [link](https://arxiv.org/pdf/2105.05883.pdf), [link](https://hal.archives-ouvertes.fr/hal-03152886v2/document) | link | link |
 | 03.06.2021  | 14:30 | [Roman Ludwig](https://pubmed.ncbi.nlm.nih.gov/?term=Ludwig+R&cauthor_id=33947429) | A Hidden Markov Model for Lymphatic Tumor Progression | link | [link](https://drive.google.com/file/d/1_qZW9oHm6QAN6DDHQrLToWIObkYxaAl7/view?usp=sharing) | [link](https://youtu.be/xSVHsdYaVc0) |
 | 27.05.2021  | 14:30 | [Miguel Monteiro](https://scholar.google.com/citations?user=LyabfXcAAAAJ&hl=en)    | Uncertainty Modeling in Image Segmentation | [link](https://arxiv.org/pdf/2006.06015.pdf) | link | [link](https://youtu.be/jw17AEuqbz0) |
 | 20.05.2021  | 14:30 | [Adrian Dalca](http://www.mit.edu/~adalca/index.html) | Amortized Hyperparameter Learning | [link](https://arxiv.org/abs/2101.01035) | link | [link](https://youtu.be/UHNusgMwSdA) |
