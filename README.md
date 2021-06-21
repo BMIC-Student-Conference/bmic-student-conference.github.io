@@ -25,7 +25,7 @@ The list of previous and upcoming talks is given below. Every Thursday's talk is
 | | | | | | | |
 | 15.07.2021  | 14:30 | [Julian Krebs](https://scholar.google.com/citations?hl=en&user=VoUvdPQAAAAJ&view_op=list_works&sortby=pubdate)   | Learning a Generative Motion Model From Image Sequences | [link](https://ieeexplore.ieee.org/document/9344838) | link | link |
 | | | | | | | |
-| 01.07.2021  | 14:30 | [Angelica I. Aviles-Rivero](https://angelicaiaviles.wordpress.com/)   | Functionals, Neural Nets and Beyond: The Power of Hybrid Models with Minimal Supervision for Medical Image Classification | link | link | link |
+| 01.07.2021  | 14:30 | [Angelica I. Aviles-Rivero](https://angelicaiaviles.wordpress.com/)   | Functionals, Neural Nets and Beyond: The Power of Hybrid Models <br /> with Minimal Supervision for Medical Image Classification | link | link | link |
 | | | | | | | |
 | 24.06.2021  | | [Herve Lombaert](https://profs.etsmtl.ca/hlombaert/)   | TBD | link | link | link |
 | | | | | | | |
@@ -43,17 +43,17 @@ The list of previous and upcoming talks is given below. Every Thursday's talk is
 | | | | | | | |
 | 29.04.2021  | 14:30 | [Marc Niethammer](https://biag.cs.unc.edu/author/marc-niethammer/)    | A Shooting Formulation of Deep Learning | [link](https://papers.nips.cc/paper/2020/hash/89562dccfeb1d0394b9ae7e09544dc70-Abstract.html) | link | link |
 | | | | | | | |
-| 22.04.2021  | 14:30 | [Francesco La Rosa](https://scholar.google.com/citations?user=OEE8Ze0AAAAJ&hl=en&oi=ao)    | Image Synthesis for Improved Tissue and Lesion Segmentation | [link](https://www.sciencedirect.com/science/article/pii/S0010482521000913) | [link](https://drive.google.com/file/d/1duzLYTn-8c2rcgq6OlLcf9E9G1IdqlVL/view?usp=sharing) | [link](https://youtu.be/zZfu98WRGQU) |
+| 22.04.2021  | 14:30 | [Francesco La Rosa](https://scholar.google.com/citations?user=OEE8Ze0AAAAJ&hl=en&oi=ao) | Image Synthesis for Improved Tissue and Lesion Segmentation | [link](https://www.sciencedirect.com/science/article/pii/S0010482521000913) | [link](https://drive.google.com/file/d/1duzLYTn-8c2rcgq6OlLcf9E9G1IdqlVL/view?usp=sharing) | [link](https://youtu.be/zZfu98WRGQU) |
 | | | | | | | |
-| 15.04.2021  | 15:00 | [Akshay Chaudhari](https://profiles.stanford.edu/akshay-chaudhari)    | Data-Efficient AI for Accelerated MRI Acquisition | [link](https://arxiv.org/pdf/2102.06103.pdf) | [link](https://drive.google.com/file/d/10TnKVndPvd_5qyTb25fItD_2FCTv1TOP/view?usp=sharing) | [link](https://youtu.be/za0nzwZmaJ8) |
+| 15.04.2021  | 15:00 | [Akshay Chaudhari](https://profiles.stanford.edu/akshay-chaudhari) | Data-Efficient AI for Accelerated MRI Acquisition | [link](https://arxiv.org/pdf/2102.06103.pdf) | [link](https://drive.google.com/file/d/10TnKVndPvd_5qyTb25fItD_2FCTv1TOP/view?usp=sharing) | [link](https://youtu.be/za0nzwZmaJ8) |
 | | | | | | | |
-| 01.04.2021  | 14:30 | [Meenakshi Khosla](https://www.meenakshikhosla.com/)    | Predicting Cortical Response to Natural Stimuli using Deep Learning | [link](https://www.biorxiv.org/content/10.1101/2020.09.11.293878v1.full.pdf) | [link](https://drive.google.com/file/d/1f9ZapAmuQYqIqS_hvgAJEMqT5uEzyXXZ/view?usp=sharing) | link |
+| 01.04.2021  | 14:30 | [Meenakshi Khosla](https://www.meenakshikhosla.com/) | Predicting Cortical Response to Natural Stimuli using Deep Learning | [link](https://www.biorxiv.org/content/10.1101/2020.09.11.293878v1.full.pdf) | [link](https://drive.google.com/file/d/1f9ZapAmuQYqIqS_hvgAJEMqT5uEzyXXZ/view?usp=sharing) | link |
 | | | | | | | |
-| 25.03.2021  | 14:30 | [Anton Becker](https://scholar.google.ch/citations?user=WWcqtdQAAAAJ&hl=en)        | Longitudinal Analysis of Brown Fat in Cancer Patients | [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239990) | link | link |
+| 25.03.2021  | 14:30 | [Anton Becker](https://scholar.google.ch/citations?user=WWcqtdQAAAAJ&hl=en) | Longitudinal Analysis of Brown Fat in Cancer Patients | [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239990) | link | link |
 | | | | | | | |
-| 11.03.2021  | 14:30 | [Mauricio Reyes](http://www.mauricioreyes.me/aboutme.html)      | Interpretability-driven Active Sample Selection | [link](https://ieeexplore.ieee.org/document/9361645) | [link](https://drive.google.com/file/d/1z7r0E1tBj4wbx5cNwsqYs-hZoxsvl2TL/view?usp=sharing) | link |
+| 11.03.2021  | 14:30 | [Mauricio Reyes](http://www.mauricioreyes.me/aboutme.html) | Interpretability-driven Active Sample Selection | [link](https://ieeexplore.ieee.org/document/9361645) | [link](https://drive.google.com/file/d/1z7r0E1tBj4wbx5cNwsqYs-hZoxsvl2TL/view?usp=sharing) | link |
 | | | | | | | |
-| 04.03.2021  | 14:30 | [Neerav Karani](https://neerakara.github.io/)       | Robust Segmentation of Medical Images | [link](https://linkinghub.elsevier.com/retrieve/pii/S1361841520302711) | [link](https://drive.google.com/file/d/1YpR7Qk69hBEtj5zLPTwc73ZMwRfryiq5/view?usp=sharing) | link |
+| 04.03.2021  | 14:30 | [Neerav Karani](https://neerakara.github.io/) | Robust Segmentation of Medical Images | [link](https://linkinghub.elsevier.com/retrieve/pii/S1361841520302711) | [link](https://drive.google.com/file/d/1YpR7Qk69hBEtj5zLPTwc73ZMwRfryiq5/view?usp=sharing) | link |
 | | | | | | | |
-| 25.02.2021  | 14:30 | [Bjoern Menze](http://home.in.tum.de/~menze/)        | Image-based Modeling of Tumour Growth | link | [link](https://drive.google.com/file/d/1S1DPtmJAPfhlefqsQ5q656hh0VdvmXAX/view?usp=sharing) | link |
+| 25.02.2021  | 14:30 | [Bjoern Menze](http://home.in.tum.de/~menze/) | Image-based Modeling of Tumour Growth | link | [link](https://drive.google.com/file/d/1S1DPtmJAPfhlefqsQ5q656hh0VdvmXAX/view?usp=sharing) | link |
 | | | | | | | |
