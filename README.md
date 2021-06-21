@@ -15,6 +15,8 @@ The list of previous and upcoming talks is given below. Every Thursday's talk is
 
 | Date        | Time (CET)  | Speaker             | Talk                                                             | Paper       | Slides      | Video      |
 | ----------- | ------------|-------------------- | ---------------------------------------------------------------- | ----------- |-----------  |----------- |
+| 07.10.2021  | 14:30 | [Djordje Miladinovic](https://djordjemila.github.io/) | Spatial Dependency Networks | [link](https://arxiv.org/abs/2103.08877), [link](https://arxiv.org/pdf/2103.11713.pdf) | link | link |
+| 23.09.2021  | 14:30 | [Jan Unkelbach](https://scholar.google.com/citations?hl=en&user=X659tV8AAAAJ&view_op=list_works) | The Role of Tumour Growth Models in Clinical Target Volume Definition | link | link | link |
 | 12.08.2021  | 16:00 | [Archana Venkataraman](https://engineering.jhu.edu/ece/faculty/archana-venkataraman/) | TBD | link | link | link |
 | 29.07.2021  | 14:30 | [Daniel Moyer](https://dcmoyer.github.io/) | Scanner Invariant MRI Representations | [link](https://arxiv.org/abs/1904.05375) | link | link |
 | 15.07.2021  | 14:30 | [Julian Krebs](https://scholar.google.com/citations?hl=en&user=VoUvdPQAAAAJ&view_op=list_works&sortby=pubdate)   | Learning a Generative Motion Model From Image Sequences | [link](https://ieeexplore.ieee.org/document/9344838) | link | link |
