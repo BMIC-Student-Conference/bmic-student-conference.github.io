@@ -15,7 +15,7 @@ The list of previous and upcoming talks is given below. Every Thursday's talk is
 
 | Date        | Time (CET)  | Speaker             | Talk                                                             | Paper       | Slides        | Video       |
 | :---------: | :---------: | ------------------- | ---------------------------------------------------------------- | :---------: | :----------:  | :---------: |
-| 07.10.2021  | 14:30 | [Djordje Miladinovic](https://djordjemila.github.io/) | Spatial Dependency Networks | [link](https://arxiv.org/abs/2103.08877), [link](https://arxiv.org/pdf/2103.11713.pdf) | link | link |
+| 07.10.2021  | 14:30 | [Djordje Miladinovic](https://djordjemila.github.io/) | Spatial Dependency Networks | [link](https://arxiv.org/abs/2103.08877) <br /> [link](https://arxiv.org/pdf/2103.11713.pdf) | link | link |
 | | | | | | | |
 | 23.09.2021  | 14:30 | [Jan Unkelbach](https://scholar.google.com/citations?hl=en&user=X659tV8AAAAJ&view_op=list_works) | The Role of Tumour Growth Models in Clinical Target Volume Definition | link | link | link |
 | | | | | | | |
@@ -29,19 +29,19 @@ The list of previous and upcoming talks is given below. Every Thursday's talk is
 | | | | | | | |
 | 24.06.2021  | | [Herve Lombaert](https://profs.etsmtl.ca/hlombaert/)   | TBD | link | link | link |
 | | | | | | | |
-| 17.06.2021  | 14:30 | [Valery Vishnevskiy](https://scholar.google.ch/citations?hl=en&user=1fGojj4AAAAJ&view_op=list_works&sortby=pubdate)   | Model-Aware Neural Networks for Image Reconstruction | [link](https://www.nature.com/articles/s42256-020-0165-6), [link](https://arxiv.org/abs/1906.05528) | [link](https://drive.google.com/file/d/17V6xcxKcfOGEOIDOoy3NcsVCzLe4ns-Y/view?usp=sharing) | [link](https://youtu.be/uHtBCh9z8vM) |
+| 17.06.2021  | 14:30 | [Valery Vishnevskiy](https://scholar.google.ch/citations?hl=en&user=1fGojj4AAAAJ&view_op=list_works&sortby=pubdate)   | Model-Aware Neural Networks for Image Reconstruction | [link](https://www.nature.com/articles/s42256-020-0165-6) <br /> [link](https://arxiv.org/abs/1906.05528) | [link](https://drive.google.com/file/d/17V6xcxKcfOGEOIDOoy3NcsVCzLe4ns-Y/view?usp=sharing) | [link](https://youtu.be/uHtBCh9z8vM) |
 | | | | | | | |
-| 10.06.2021  | 14:30 | [Marco Lorenzi](https://marcolorenzi.github.io/) | Federated Learning in Medical Imaging: from Theory to Practice | [link](https://arxiv.org/pdf/2105.05883.pdf), [link](https://hal.archives-ouvertes.fr/hal-03152886v2/document) | link | [link](https://youtu.be/C3Hd3gxRKuc) |
+| 10.06.2021  | 14:30 | [Marco Lorenzi](https://marcolorenzi.github.io/) | Federated Learning in Medical Imaging: from Theory to Practice | [link](https://arxiv.org/pdf/2105.05883.pdf) <br /> [link](https://hal.archives-ouvertes.fr/hal-03152886v2/document) | link | [link](https://youtu.be/C3Hd3gxRKuc) |
 | | | | | | | |
 | 03.06.2021  | 14:30 | [Roman Ludwig](https://pubmed.ncbi.nlm.nih.gov/?term=Ludwig+R&cauthor_id=33947429) | A Hidden Markov Model for Lymphatic Tumor Progression | link | [link](https://drive.google.com/file/d/1_qZW9oHm6QAN6DDHQrLToWIObkYxaAl7/view?usp=sharing) | [link](https://youtu.be/xSVHsdYaVc0) |
 | | | | | | | |
-| 27.05.2021  | 14:30 | [Miguel Monteiro](https://scholar.google.com/citations?user=LyabfXcAAAAJ&hl=en)    | Uncertainty Modeling in Image Segmentation | [link](https://arxiv.org/pdf/2006.06015.pdf) | link | [link](https://youtu.be/jw17AEuqbz0) |
+| 27.05.2021  | 14:30 | [Miguel Monteiro](https://scholar.google.com/citations?user=LyabfXcAAAAJ&hl=en) | Uncertainty Modeling in Image Segmentation | [link](https://arxiv.org/pdf/2006.06015.pdf) | link | [link](https://youtu.be/jw17AEuqbz0) |
 | | | | | | | |
 | 20.05.2021  | 14:30 | [Adrian Dalca](http://www.mit.edu/~adalca/index.html) | Amortized Hyperparameter Learning | [link](https://arxiv.org/abs/2101.01035) | link | [link](https://youtu.be/UHNusgMwSdA) |
 | | | | | | | |
-| 06.05.2021  | 14:30 | [Stanley Durrleman](https://who.rocq.inria.fr/Stanley.Durrleman/#)   | Spatiotemporal Statistical Shape Analysis | [link](https://hal.inria.fr/hal-02091549v5/document), [link](https://jmlr.csail.mit.edu/papers/volume18/17-197/17-197.pdf) | link | [link](https://youtu.be/8TvnMPfXuJE) |
+| 06.05.2021  | 14:30 | [Stanley Durrleman](https://who.rocq.inria.fr/Stanley.Durrleman/#) | Spatiotemporal Statistical Shape Analysis | [link](https://hal.inria.fr/hal-02091549v5/document) <br /> [link](https://jmlr.csail.mit.edu/papers/volume18/17-197/17-197.pdf) | link | [link](https://youtu.be/8TvnMPfXuJE) |
 | | | | | | | |
-| 29.04.2021  | 14:30 | [Marc Niethammer](https://biag.cs.unc.edu/author/marc-niethammer/)    | A Shooting Formulation of Deep Learning | [link](https://papers.nips.cc/paper/2020/hash/89562dccfeb1d0394b9ae7e09544dc70-Abstract.html) | link | link |
+| 29.04.2021  | 14:30 | [Marc Niethammer](https://biag.cs.unc.edu/author/marc-niethammer/) | A Shooting Formulation of Deep Learning | [link](https://papers.nips.cc/paper/2020/hash/89562dccfeb1d0394b9ae7e09544dc70-Abstract.html) | link | link |
 | | | | | | | |
 | 22.04.2021  | 14:30 | [Francesco La Rosa](https://scholar.google.com/citations?user=OEE8Ze0AAAAJ&hl=en&oi=ao) | Image Synthesis for Improved Tissue and Lesion Segmentation | [link](https://www.sciencedirect.com/science/article/pii/S0010482521000913) | [link](https://drive.google.com/file/d/1duzLYTn-8c2rcgq6OlLcf9E9G1IdqlVL/view?usp=sharing) | [link](https://youtu.be/zZfu98WRGQU) |
 | | | | | | | |
