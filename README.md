@@ -27,7 +27,7 @@ The list of previous and upcoming talks is given below. Every Thursday's talk is
 | | | | | | | |
 | 01.07.2021  | 14:30 | [Angelica I. Aviles-Rivero](https://angelicaiaviles.wordpress.com/) | Functionals, Neural Nets and Beyond: The Power of Hybrid Models<br /> with Minimal Supervision for Medical Image Classification | link | link | link |
 | | | | | | | |
-| 24.06.2021  | 14:30 | [Herve Lombaert](https://profs.etsmtl.ca/hlombaert/) | Graph Convolutions - Examples on brain surfaces | link | link | link |
+| 24.06.2021  | 14:30 | [Herve Lombaert](https://profs.etsmtl.ca/hlombaert/) | Graph Convolutions - Examples on brain surfaces | [link](https://www.sciencedirect.com/science/article/pii/S1361841518305243) | link | [link](https://youtu.be/fqBMOO0DMm0) |
 | | | | | | | |
 | 17.06.2021  | 14:30 | [Valery Vishnevskiy](https://scholar.google.ch/citations?hl=en&user=1fGojj4AAAAJ&view_op=list_works&sortby=pubdate)   | Model-Aware Neural Networks for Image Reconstruction | [link](https://www.nature.com/articles/s42256-020-0165-6)<br />[link](https://arxiv.org/abs/1906.05528) | [link](https://drive.google.com/file/d/17V6xcxKcfOGEOIDOoy3NcsVCzLe4ns-Y/view?usp=sharing) | [link](https://youtu.be/uHtBCh9z8vM) |
 | | | | | | | |
