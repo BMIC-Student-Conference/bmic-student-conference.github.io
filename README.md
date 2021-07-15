@@ -18,7 +18,7 @@ We meet every alternate Thursday afternoon (CET), where a speaker presents one o
 | | | | | | | |
 | 29.07.2021  | 14:30 | [Daniel Moyer](https://dcmoyer.github.io/) | Scanner Invariant MRI Representations | [link](https://arxiv.org/abs/1904.05375) | link | link |
 | | | | | | | |
-| 15.07.2021  | 14:30 | [Julian Krebs](https://scholar.google.com/citations?hl=en&user=VoUvdPQAAAAJ&view_op=list_works&sortby=pubdate)   | Learning a Generative Motion Model From Image Sequences | [link](https://ieeexplore.ieee.org/abstract/document/8633848), [link](https://ieeexplore.ieee.org/document/9344838) | link | link |
+| 15.07.2021  | 14:30 | [Julian Krebs](https://scholar.google.com/citations?hl=en&user=VoUvdPQAAAAJ&view_op=list_works&sortby=pubdate)   | Learning a Generative Motion Model From Image Sequences | [link](https://ieeexplore.ieee.org/abstract/document/8633848)<br />[link](https://ieeexplore.ieee.org/document/9344838) | link | link |
 | | | | | | | |
 | 01.07.2021  | 14:30 | [Angelica I. Aviles-Rivero](https://angelicaiaviles.wordpress.com/) | Functionals, Neural Nets and Beyond: The Power of Hybrid Models<br /> with Minimal Supervision for Medical Image Classification | link | link | link |
 | | | | | | | |
