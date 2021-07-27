@@ -4,7 +4,7 @@
 
 ## A Student Conference For Biomedical Image Computing
 
-We meet every alternate Thursday afternoon (CET), where a speaker presents one of their recently published articles. The talk is for roughly 30 minutes, followed by a discussion for 30 to 45 minutes. The list of previous and upcoming talks is given below. [This](https://ethz.zoom.us/j/92533050789?pwd=QldJSjVsOUhWUmxidGRLRE1VLzFYZz09) is the meeting link.
+We meet every alternate Thursday afternoon (CET), where a speaker presents one of their recently published articles. The talk is for roughly 30 minutes, followed by a discussion for 30 to 45 minutes. The list of previous and upcoming talks is given below. [This](https://ethz.zoom.us/j/63217947662) is the meeting link.
 
 | Date        | Time (CET)  | Speaker             | Talk                                                             | Paper       | Slides        | Video       |
 | :---------: | :---------: | ------------------- | ---------------------------------------------------------------- | :---------: | :----------:  | :---------: |
