@@ -14,9 +14,9 @@ We meet every alternate Thursday afternoon (CET), where a speaker presents one o
 | | | | | | | |
 | 09.09.2021  | 14:30 | [Chaoping Zhang](https://scholar.google.com/citations?user=WtBOqskAAAAJ&hl=en) | A Unified Model for Reconstruction and R2*-Mapping in Accelerated 7T MRI | link | link | link |
 | | | | | | | |
-| 12.08.2021  | 16:00 | [Archana Venkataraman](https://engineering.jhu.edu/ece/faculty/archana-venkataraman/) | You can Teach an Old Dog New Tricks - Deep Learning in Data Starved Regimes | [link](https://www.sciencedirect.com/science/article/pii/S1053811921006649)<br />[link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8886406)<br />[link](https://par.nsf.gov/servlets/purl/10179305) | link | link |
+| 12.08.2021  | 16:00 | [Archana Venkataraman](https://engineering.jhu.edu/ece/faculty/archana-venkataraman/) | You can Teach an Old Dog New Tricks - Deep Learning in Data Starved Regimes | [link](https://www.sciencedirect.com/science/article/pii/S1053811921006649)<br />[link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8886406)<br />[link](https://par.nsf.gov/servlets/purl/10179305) | link | [link](https://youtu.be/Y62mSOiWAVw) |
 | | | | | | | |
-| 29.07.2021  | 14:30 | [Daniel Moyer](https://dcmoyer.github.io/) | Scanner Invariant MRI Representations | [link](https://arxiv.org/abs/1904.05375) | link | link |
+| 29.07.2021  | 14:30 | [Daniel Moyer](https://dcmoyer.github.io/) | Scanner Invariant MRI Representations | [link](https://arxiv.org/abs/1904.05375) | link | [link](https://youtu.be/DuXo8fGmzIc) |
 | | | | | | | |
 | 15.07.2021  | 14:30 | [Julian Krebs](https://scholar.google.com/citations?hl=en&user=VoUvdPQAAAAJ&view_op=list_works&sortby=pubdate)   | Learning a Generative Motion Model From Image Sequences | [link](https://ieeexplore.ieee.org/abstract/document/8633848)<br />[link](https://ieeexplore.ieee.org/document/9344838) | link | [link](https://youtu.be/9pOguurgsUU) |
 | | | | | | | |
