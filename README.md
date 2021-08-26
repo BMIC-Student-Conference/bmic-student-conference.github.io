@@ -8,6 +8,8 @@ We meet every alternate Thursday afternoon (CET), where a speaker presents one o
 
 | Date        | Time (CET)  | Speaker             | Talk                                                             | Paper       | Slides        | Video       |
 | :---------: | :---------: | ------------------- | ---------------------------------------------------------------- | :---------: | :----------:  | :---------: |
+| 04.11.2021  | 14:30 | [Tianfei Zhou](https://www.tfzhou.com/) | TBA | link | link | link |
+| | | | | | | |
 | 21.10.2021  | 14:30 | [Chaoping Zhang](https://scholar.google.com/citations?user=WtBOqskAAAAJ&hl=en) | A Unified Model for Reconstruction and R2*-Mapping in Accelerated 7T MRI | link | link | link |
 | | | | | | | |
 | 07.10.2021  | 14:30 | [Djordje Miladinovic](https://djordjemila.github.io/) | Spatial Dependency Networks | [link](https://arxiv.org/abs/2103.08877)<br />[link](https://arxiv.org/pdf/2103.11713.pdf) | link | link |
