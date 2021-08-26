@@ -8,11 +8,11 @@ We meet every alternate Thursday afternoon (CET), where a speaker presents one o
 
 | Date        | Time (CET)  | Speaker             | Talk                                                             | Paper       | Slides        | Video       |
 | :---------: | :---------: | ------------------- | ---------------------------------------------------------------- | :---------: | :----------:  | :---------: |
+| 21.10.2021  | 14:30 | [Chaoping Zhang](https://scholar.google.com/citations?user=WtBOqskAAAAJ&hl=en) | A Unified Model for Reconstruction and R2*-Mapping in Accelerated 7T MRI | link | link | link |
+| | | | | | | |
 | 07.10.2021  | 14:30 | [Djordje Miladinovic](https://djordjemila.github.io/) | Spatial Dependency Networks | [link](https://arxiv.org/abs/2103.08877)<br />[link](https://arxiv.org/pdf/2103.11713.pdf) | link | link |
 | | | | | | | |
 | 23.09.2021  | 14:30 | [Jan Unkelbach](https://scholar.google.com/citations?hl=en&user=X659tV8AAAAJ&view_op=list_works) | The Role of Tumour Growth Models in Clinical Target Volume Definition | link | link | link |
-| | | | | | | |
-| 09.09.2021  | 14:30 | [Chaoping Zhang](https://scholar.google.com/citations?user=WtBOqskAAAAJ&hl=en) | A Unified Model for Reconstruction and R2*-Mapping in Accelerated 7T MRI | link | link | link |
 | | | | | | | |
 | 12.08.2021  | 16:00 | [Archana Venkataraman](https://engineering.jhu.edu/ece/faculty/archana-venkataraman/) | You can Teach an Old Dog New Tricks - Deep Learning in Data Starved Regimes | [link](https://www.sciencedirect.com/science/article/pii/S1053811921006649)<br />[link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8886406)<br />[link](https://par.nsf.gov/servlets/purl/10179305) | link | [link](https://youtu.be/Y62mSOiWAVw) |
 | | | | | | | |
