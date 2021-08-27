@@ -16,6 +16,8 @@ We meet every alternate Thursday afternoon (CET), where a speaker presents one o
 | | | | | | | |
 | 23.09.2021  | 14:30 | [Jan Unkelbach](https://scholar.google.com/citations?hl=en&user=X659tV8AAAAJ&view_op=list_works) | The Role of Tumour Growth Models in Clinical Target Volume Definition | link | link | link |
 | | | | | | | |
+| 09.09.2021  | 14:30 | [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/) | The Role of Artificial Intelligence in the Next-generation Robotic Surgery | link | link | link |
+| | | | | | | |
 | 12.08.2021  | 16:00 | [Archana Venkataraman](https://engineering.jhu.edu/ece/faculty/archana-venkataraman/) | You can Teach an Old Dog New Tricks - Deep Learning in Data Starved Regimes | [link](https://www.sciencedirect.com/science/article/pii/S1053811921006649)<br />[link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8886406)<br />[link](https://par.nsf.gov/servlets/purl/10179305) | link | [link](https://youtu.be/Y62mSOiWAVw) |
 | | | | | | | |
 | 29.07.2021  | 14:30 | [Daniel Moyer](https://dcmoyer.github.io/) | Scanner Invariant MRI Representations | [link](https://arxiv.org/abs/1904.05375) | link | [link](https://youtu.be/DuXo8fGmzIc) |
