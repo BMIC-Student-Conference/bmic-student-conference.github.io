@@ -14,7 +14,7 @@ We meet every alternate Thursday afternoon (CET), where a speaker presents one o
 | | | | | | | |
 | 07.10.2021  | 14:30 | [Djordje Miladinovic](https://djordjemila.github.io/) | Spatial Dependency Networks | [link](https://arxiv.org/abs/2103.08877)<br />[link](https://arxiv.org/pdf/2103.11713.pdf) | link | link |
 | | | | | | | |
-| 23.09.2021  | 14:30 | [Jan Unkelbach](https://scholar.google.com/citations?hl=en&user=X659tV8AAAAJ&view_op=list_works) | The Role of Tumour Growth Models in Clinical Target Volume Definition | link | link | link |
+| 23.09.2021  | 14:30 | [Jan Unkelbach](https://scholar.google.com/citations?hl=en&user=X659tV8AAAAJ&view_op=list_works) | Target volume definition in radiotherapy | [link](https://www.sciencedirect.com/science/article/pii/S0167814020308380) | link | link |
 | | | | | | | |
 | 09.09.2021  | 14:30 | [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/) | The Role of Artificial Intelligence in the Next-generation Robotic Surgery | link | link | link |
 | | | | | | | |
