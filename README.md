@@ -8,6 +8,8 @@ We meet every alternate Thursday afternoon (CET), where a speaker presents one o
 
 | Date        | Time (CET)  | Speaker             | Talk                                                             | Paper       | Slides        | Video       |
 | :---------: | :---------: | ------------------- | ---------------------------------------------------------------- | :---------: | :----------:  | :---------: |
+| 02.12.2021  | 14:30 | [Dana Rahbani](https://www.linkedin.com/in/dana-rahbani/) | Sequential Gaussian Process Regression for Simultaneous Pathology Detection and Shape Reconstruction | [link](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_41) | link | link |
+| | | | | | | |
 | 18.11.2021  | 14:30 | [Ryutaro Tanno](https://rt416.github.io/) | Adaptive Neural Trees | [link](http://proceedings.mlr.press/v97/tanno19a/tanno19a.pdf) | link | link |
 | | | | | | | |
 | 04.11.2021  | 14:30 | [Tianfei Zhou](https://www.tfzhou.com/) | TBA | link | link | link |
