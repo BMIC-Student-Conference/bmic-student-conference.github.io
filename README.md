@@ -14,6 +14,8 @@ We meet every alternate Thursday afternoon (CET), where a speaker presents one o
 | | | | | | | |
 | 14.10.2021  | 14:30 | [João Carvalho](https://inf.ethz.ch/people/person-detail.MjcxMjcx.TGlzdC8zMDQsLTg3NDc3NjI0MQ==.html) | Spatial Dependency Networks | [link](https://arxiv.org/abs/2103.08877)<br />[link](https://arxiv.org/pdf/2103.11713.pdf) | link | link |
 | | | | | | | |
+| 07.10.2021  | 14:30 | [Kerem Tezcan](https://bmic.ee.ethz.ch/people/person-details.kerem-tezcan.html) | Sampling possible reconstructions of undersampled acquisitions in MR imaging | [link](https://arxiv.org/pdf/2010.00042.pdf) | link | link |
+| | | | | | | |
 | 23.09.2021  | 14:30 | [Jan Unkelbach](https://scholar.google.com/citations?hl=en&user=X659tV8AAAAJ&view_op=list_works) | Target volume definition in radiotherapy | [link](https://www.sciencedirect.com/science/article/pii/S0167814020308380) | link | [link](https://youtu.be/WkqeYM6pQ80) |
 | | | | | | | |
 | 09.09.2021  | 14:30 | [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/) | The Role of Artificial Intelligence in the Next-generation Robotic Surgery | link | link | link |
