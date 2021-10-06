@@ -12,7 +12,7 @@ We meet every alternate Thursday afternoon (CET), where a speaker presents one o
 | | | | | | | |
 | 21.10.2021  | 14:30 | [Chaoping Zhang](https://www.nki.nl/research/find-a-researcher/researchers/chaoping-zhang/) | A Unified Model for Reconstruction and R2*-Mapping in Accelerated 7T MRI | link | link | link |
 | | | | | | | |
-| 07.10.2021  | 14:30 | [Djordje Miladinovic](https://djordjemila.github.io/) | Spatial Dependency Networks | [link](https://arxiv.org/abs/2103.08877)<br />[link](https://arxiv.org/pdf/2103.11713.pdf) | link | link |
+| 14.10.2021  | 14:30 | [João Carvalho](https://inf.ethz.ch/people/person-detail.MjcxMjcx.TGlzdC8zMDQsLTg3NDc3NjI0MQ==.html) | Spatial Dependency Networks | [link](https://arxiv.org/abs/2103.08877)<br />[link](https://arxiv.org/pdf/2103.11713.pdf) | link | link |
 | | | | | | | |
 | 23.09.2021  | 14:30 | [Jan Unkelbach](https://scholar.google.com/citations?hl=en&user=X659tV8AAAAJ&view_op=list_works) | Target volume definition in radiotherapy | [link](https://www.sciencedirect.com/science/article/pii/S0167814020308380) | link | [link](https://youtu.be/WkqeYM6pQ80) |
 | | | | | | | |
