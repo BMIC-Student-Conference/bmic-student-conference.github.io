@@ -16,7 +16,7 @@ We meet every alternate Thursday afternoon (CET), where a speaker presents one o
 | | | | | | | |
 | 21.10.2021  | 14:30 | [Chaoping Zhang](https://www.nki.nl/research/find-a-researcher/researchers/chaoping-zhang/) | A Unified Model for Reconstruction and R2*-Mapping in Accelerated 7T MRI | link | link | link |
 | | | | | | | |
-| 14.10.2021  | 14:30 | [João Carvalho](https://inf.ethz.ch/people/person-detail.MjcxMjcx.TGlzdC8zMDQsLTg3NDc3NjI0MQ==.html) | Spatial Dependency Networks | [link](https://arxiv.org/abs/2103.08877)<br />[link](https://arxiv.org/pdf/2103.11713.pdf) | link | link |
+| 14.10.2021  | 14:30 | [João Carvalho](https://inf.ethz.ch/people/person-detail.MjcxMjcx.TGlzdC8zMDQsLTg3NDc3NjI0MQ==.html) | Spatial Dependency Networks | [link](https://arxiv.org/abs/2103.08877)<br />[link](https://arxiv.org/pdf/2103.11713.pdf) | link | [link](https://youtu.be/tqJmBZELr3s) |
 | | | | | | | |
 | 07.10.2021  | 14:30 | [Kerem Tezcan](https://bmic.ee.ethz.ch/people/person-details.kerem-tezcan.html) | Sampling possible reconstructions of undersampled acquisitions in MR imaging | [link](https://arxiv.org/pdf/2010.00042.pdf) | link | link |
 | | | | | | | |
