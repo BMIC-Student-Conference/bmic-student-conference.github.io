@@ -12,7 +12,7 @@ We meet every alternate Thursday afternoon (CET), where a speaker presents one o
 | | | | | | | |
 | 18.11.2021  | 14:30 | [Ryutaro Tanno](https://rt416.github.io/) | Adaptive Neural Trees | [link](http://proceedings.mlr.press/v97/tanno19a/tanno19a.pdf) | link | link |
 | | | | | | | |
-| 04.11.2021  | 14:30 | [Tianfei Zhou](https://www.tfzhou.com/) | TBA | link | link | link |
+| 04.11.2021  | 14:30 | [Tianfei Zhou](https://www.tfzhou.com/) | Exploring Cross-Image Pixel Contrast for Semantic Segmentation | [link](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Exploring_Cross-Image_Pixel_Contrast_for_Semantic_Segmentation_ICCV_2021_paper.pdf) | link | link |
 | | | | | | | |
 | 21.10.2021  | 14:30 | [Chaoping Zhang](https://www.nki.nl/research/find-a-researcher/researchers/chaoping-zhang/) | A Unified Model for Reconstruction and R2*-Mapping in Accelerated 7T MRI | link | link | link |
 | | | | | | | |
